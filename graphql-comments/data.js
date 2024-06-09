@@ -1,9 +1,12 @@
 const users = [{
     id: "1",
-    fullName: "Mehmet Seven"
+    fullName: "Mehmet Seven",
+    age: 32
+
 },{
     id: "2",
-    fullName: "Ahmet Günal"
+    fullName: "Ahmet Günal",
+    age: 12
 }]
 
 const posts = [{
